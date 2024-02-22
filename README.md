@@ -5,6 +5,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/artemrasskazimov/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
+<a href="https://t.me/sozhran"><img src="https://img.shields.io/badge/telegram-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram" /></a>
+&nbsp;
 <a href="mailto:artem.rasskazimov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <hr>
