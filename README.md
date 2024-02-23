@@ -1,14 +1,14 @@
-<h2 align="center">Hi!</h2>
+<h2 align="center">🌾&nbsp;&nbsp;&nbsp;Hi, I'm Artem!&nbsp;&nbsp;&nbsp;🌾</h2>
 
-<p></p>
+<p>I'm a junior software developer, learning to build awesome things.<br>
+Before becoming a developer, I was a project manager in Yandex, fighting malware and managing a public DNS service.</p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/artemrasskazimov/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+#### Get in touch with me: ####
+<a href="https://www.linkedin.com/in/artemrasskazimov/"><img src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://t.me/sozhran"><img src="https://img.shields.io/badge/telegram-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram" /></a>
+<a href="https://t.me/sozhran"><img src="https://img.shields.io/badge/telegram-bfbfbf?&style=for-the-badge&logoColor=black&logo=telegram" /></a>
 &nbsp;
-<a href="mailto:artem.rasskazimov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<a href="mailto:artem.rasskazimov@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <hr>
 
 <h4 align="center">MY STACK</h4>
