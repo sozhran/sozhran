@@ -1,7 +1,4 @@
-<h2 align="center">🌾&nbsp;&nbsp;&nbsp;Hi, I'm Artem!&nbsp;&nbsp;&nbsp;🌾</h2>
-
-<p>I'm a junior software developer, learning to build awesome things.<br>
-Before becoming a developer, I was a project manager in Yandex, fighting malware and managing a public DNS service.</p>
+<h2 align="center">🌾&nbsp;&nbsp;&nbsp;I like to build awesome things.&nbsp;&nbsp;&nbsp;🌾</h2>
 
 #### Get in touch with me: ####
 <a href="https://www.linkedin.com/in/artemrasskazimov/"><img src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -31,6 +28,9 @@ Before becoming a developer, I was a project manager in Yandex, fighting malware
 
 <h5>Back-end</h5>
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Django](https://img.shields.io/badge/Unittest-4d0099?style=for-the-badge&logo=python&logoColor=gold)
 ![Express.js](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 &nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-991b1b?style=for-the-badge&logo=Prisma&logoColor=white)
