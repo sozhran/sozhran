@@ -30,13 +30,13 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Django](https://img.shields.io/badge/Unittest-4d0099?style=for-the-badge&logo=python&logoColor=gold)
 ![Express.js](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 &nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-991b1b?style=for-the-badge&logo=Prisma&logoColor=white)
 
 <h5>Testing</h5>
 
+![Unittest](https://img.shields.io/badge/Unittest-4d0099?style=for-the-badge&logo=python&logoColor=gold)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 &nbsp;
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
